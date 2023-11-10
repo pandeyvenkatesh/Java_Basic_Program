@@ -1,6 +1,6 @@
 package com.venkatesh;
 //How to Take Input From User in Java
-
+//Using Scanner Class for Taking Input in Java
 import java.util.*;
 public class inputOutput {
 
